@@ -3,7 +3,7 @@ publishDate: 2024-06-18T00:00:00Z
 author: Webmaster Ayaselva
 title: Tamshiyacu's Ayahuasca Journey 
 excerpt: Tamshiyacu Historic Amazon town near Iquitos, blending culture and tourism.
-image: ~/assets/images/blog/blog003-tamshiyacus-ayahuasca-journey.jpg
+image: https://image.ayaselva.com/blog/blog003-tamshiyacus-ayahuasca-journey.jpg
 category: Travel and Tourism
 tags:
   - Traditions
@@ -24,7 +24,7 @@ The local community has embraced this tourism boom, with many residents particip
 
 The rise of experiential tourism has significantTourismly impacted the local economy. Many residents have found employment in the tourism sector, whether as lodge staff, guides, or artisans. The influx of visitors has also spurred the growth of local businesses, including restaurants, shops, and markets. This economic boost has improved the overall quality of life for many inhabitants, fostering a sense of pride and community resilience.
 
-![Amazon](../../assets/images/blog/blog003-tamshiyacus-ayahuasca-journey-2.jpg)
+![Amazon](https://image.ayaselva.com/blog/blog003-tamshiyacus-ayahuasca-journey-2.jpg)
 
 Tourists visiting Tamshiyacu are generally from Europe and North America, although visitors from diverse regions like Sri Lanka and the UAE also frequent the town. These visitors, typically in their 30s and 40s, are often in search of existential clarity and a break from modern life's complexities. The ceremonial use of ayahuasca, a time-honored practice by local healers, serves as a central draw for these spiritual seekers. The profound impact of these ayahuasca ceremonies often leads to repeat visits and long-lasting connections between the visitors and the community.
 

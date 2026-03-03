@@ -3,7 +3,7 @@ publishDate: 2024-06-19T00:00:00Z
 author: Webmaster Ayaselva
 title: Harmine a fascinating molecule found in the ayahuasca vine
 excerpt: Ayahuasca compound harmine shows neuroprotective and cognitive benefits.
-image: ~/assets/images/blog/blog004-harmine-a-fascinating-molecule-found-in-the-ayahuasca-vine.jpg
+image: https://image.ayaselva.com/blog/blog004-harmine-a-fascinating-molecule-found-in-the-ayahuasca-vine.jpg
 category: Medicinal Plants
 tags:
   - Ayahuasca

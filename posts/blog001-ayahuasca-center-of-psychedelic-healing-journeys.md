@@ -3,7 +3,7 @@ publishDate: 2024-06-16T00:00:00Z
 author: Webmaster Ayaselva
 title: Ayahuasca center of psychedelic healing journeys..
 excerpt: Discover the ancient, hallucinogenic brew ayahuasca used in spiritual rituals.
-image: ~/assets/images/blog/blog001-ayahuasca-center-of-psychedelic-healing-journeys.jpg
+image: https://image.ayaselva.com/blog/blog001-ayahuasca-center-of-psychedelic-healing-journeys.jpg
 category: Medicinal Plants
 tags:
   - Ayahuasca

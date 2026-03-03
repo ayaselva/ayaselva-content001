@@ -3,7 +3,7 @@ publishDate: 2024-06-24T00:00:00Z
 author: Webmaster Ayaselva
 title: Iquitos Peru, a place worth visiting
 excerpt: Iquitos Peru, a vibrant culture, rich history, and natural beauty.
-image: ~/assets/images/blog/blog009-iquitos-peru-a-place-worth-visiting.jpg
+image: https://image.ayaselva.com/blog/blog009-iquitos-peru-a-place-worth-visiting.jpg
 category: Travel
 tags:
   - Nature
@@ -15,7 +15,7 @@ metadata:
 
 Nestled in the heart of the Peruvian Amazon, Iquitos is a city that pulses with a unique blend of vibrant culture, rich history, and natural beauty. Known as the largest city in the world not accessible by road, Iquitos can only be reached by boat or plane, adding an extra layer of mystique to its allure. This city is a gateway to the Amazon rainforest, offering visitors an unforgettable experience that blends adventure, spirituality, and an immersion into indigenous cultures. Here’s a closer look at what makes Iquitos a must-visit destination.
 
-![Amazon](../../assets/images/blog/blog009-iquitos-peru-a-place-worth-visiting-2.jpg)
+![Amazon](https://image.ayaselva.com/blog/blog009-iquitos-peru-a-place-worth-visiting-2.jpg)
 
 
 ***The bustling riverside boulevard***

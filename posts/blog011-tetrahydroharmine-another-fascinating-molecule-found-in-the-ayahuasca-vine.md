@@ -3,7 +3,7 @@ publishDate: 2024-06-26T00:00:00Z
 author: Webmaster Ayaselva
 title: Tetrahydroharmine, another fascinating molecule found in the ayahuasca vines
 excerpt: Tetrahydroharmine enhances mood, cognition, with potential neuroprotective benefits
-image: ~/assets/images/blog/blog011-tetrahydroharmine-another-fascinating-molecule-found-in-the-ayahuasca-vine.jpg
+image: https://image.ayaselva.com/blog/blog011-tetrahydroharmine-another-fascinating-molecule-found-in-the-ayahuasca-vine.jpg
 category: Medicinal plants
 tags:
   - Ayahuasca

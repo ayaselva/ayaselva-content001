@@ -3,7 +3,7 @@ publishDate: 2024-06-22T00:00:00Z
 author: Webmaster Ayaselva
 title: Healing addiction with ayahuasca
 excerpt: Ayahuasca a holistic approach to breaking the cycle of addiction
-image: ~/assets/images/blog/blog007-healing-addiction-with-ayahuasca.jpg
+image: https://image.ayaselva.com/blog/blog007-healing-addiction-with-ayahuasca.jpg
 category: Health
 tags:
   - Ayahuasca

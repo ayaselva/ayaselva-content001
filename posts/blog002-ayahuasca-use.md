@@ -3,7 +3,7 @@ publishDate: 2024-06-17T00:00:00Z
 author: Webmaster Ayaselva
 title: Ayahuasca use
 excerpt: Ayahuasca Indigenous brew for healing and spirituality, now globally recognized.
-image: ~/assets/images/blog/blog002-ayahuasca-use.jpg
+image: https://image.ayaselva.com/blog/blog002-ayahuasca-use.jpg
 category: Medicinal Plants
 tags:
   - Ayahuasca

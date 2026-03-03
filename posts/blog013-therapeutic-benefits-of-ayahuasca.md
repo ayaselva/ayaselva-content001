@@ -3,7 +3,7 @@ publishDate: 2024-07-06T00:00:00Z
 author: Webmaster Ayaselva
 title: Therapeutic benefits of ayahuasca
 excerpt: Exploring ayahuasca's impact on mental health in a recent study
-image: ~/assets/images/blog/blog013-therapeutic-benefits-of-ayahuasca.jpg
+image: https://image.ayaselva.com/blog/blog013-therapeutic-benefits-of-ayahuasca.jpg
 category: Medicinal plants
 tags:
   - Ayahuasca

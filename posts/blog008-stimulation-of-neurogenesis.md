@@ -3,7 +3,7 @@ publishDate: 2024-06-23T00:00:00Z
 author: Webmaster Ayaselva
 title: Stimulation of neurogenesis
 excerpt: Discover how ayahuasca fosters deep emotional insights and enhances mental well-being
-image: ~/assets/images/blog/blog008-stimulation-of-neurogenesis.jpg
+image: https://image.ayaselva.com/blog/blog008-stimulation-of-neurogenesis.jpg
 category: Health
 tags:
   - Ayahuasca

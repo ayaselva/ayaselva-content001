@@ -3,7 +3,7 @@ publishDate: 2024-06-25T00:00:00Z
 author: Webmaster Ayaselva
 title: Psychedelic integration, understanding and practices
 excerpt: incorporating profound insights into everyday life effectively
-image: ~/assets/images/blog/blog010-psychedelic-integration-understanding-and-practices.jpg
+image: https://image.ayaselva.com/blog/blog010-psychedelic-integration-understanding-and-practices.jpg
 category: Health
 tags:
   - Healh

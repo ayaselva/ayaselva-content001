@@ -3,7 +3,7 @@ publishDate: 2024-07-09T00:00:00Z
 author: Webmaster Ayaselva
 title: Exploring DMT, the mystical molecule of consciousness
 excerpt: Unlocking the mysteries of DMTs profound effects
-image: ~/assets/images/blog/blog014-exploring-dmt-the-mystical-molecule-of-consciousness.jpg
+image: https://image.ayaselva.com/blog/blog014-exploring-dmt-the-mystical-molecule-of-consciousness.jpg
 category: Science
 tags:
   - Ayahuasca

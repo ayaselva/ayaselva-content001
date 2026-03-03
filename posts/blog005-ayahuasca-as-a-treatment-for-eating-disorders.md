@@ -3,7 +3,7 @@ publishDate: 2024-06-20T00:00:00Z
 author: Webmaster Ayaselva
 title: Ayahuasca as a treatment for eating disorders
 excerpt: Ayahuasca, transforming eating disorder treatment with ancient wisdom
-image: ~/assets/images/blog/blog005-ayahuasca-as-a-treatment-for-eating-disorders.jpg
+image: https://image.ayaselva.com/blog/blog005-ayahuasca-as-a-treatment-for-eating-disorders.jpg
 category: Health
 tags:
   - Ayahuasca

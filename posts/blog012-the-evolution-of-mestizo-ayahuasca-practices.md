@@ -3,7 +3,7 @@ publishDate: 2024-07-05T00:00:00Z
 author: Webmaster Ayaselva
 title: The evolution of mestizo ayahuasca practices
 excerpt: Mestizo Ayahuasca A Unique Blend of Amazonian and Cultural Practices
-image: ~/assets/images/blog/blog012-the-evolution-of-mestizo-ayahuasca-practices.jpg
+image: https://image.ayaselva.com/blog/blog012-the-evolution-of-mestizo-ayahuasca-practices.jpg
 category: Culture
 tags:
   - Ayahuasca

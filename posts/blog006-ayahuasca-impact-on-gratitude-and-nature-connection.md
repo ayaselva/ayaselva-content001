@@ -3,7 +3,7 @@ publishDate: 2024-06-21T00:00:00Z
 author: Webmaster Ayaselva
 title: Ayahuasca's impact on gratitude and nature connection
 excerpt: Transforming mental health with nature and gratitude
-image: ~/assets/images/blog/blog006-ayahuasca-impact-on-gratitude-and-nature-connection.jpg
+image: https://image.ayaselva.com/blog/blog006-ayahuasca-impact-on-gratitude-and-nature-connection.jpg
 category: Health
 tags:
   - Ayahuasca
