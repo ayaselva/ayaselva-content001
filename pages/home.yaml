@@ -1,0 +1,45 @@
+slug: home
+template: home
+metadata:
+  title: Ayahuasca Healing Retreat in the Amazon - Ayaselva
+  description: >-
+    Discover Ayaselva in Tamshiyacu, a healing center offering transformative ayahuasca ceremonies
+    with experienced indigenous healers. Join us in the serene Amazon jungle for a profound journey
+    of energy, love, and adventure.
+hero:
+  title: Ayahuasca Healing Center
+  ctaLabel: Book Free Video Call consult
+  ctaEmbedUrl: https://koalendar.com/e/ayaselva?embed=true
+  benefits:
+    - Intimate, personalized approach.
+    - Nurturing, supportive environment
+    - 15 years experience
+    - Comfortable accommodations
+    - Breathtaking location in the jungle near Iquitos, Peru
+  image:
+    src: https://image.ayaselva.com/page/home/001-maloca1.jpg
+    alt: Colorful Image
+sections:
+  - id: about
+    columns: 3
+    bgBlue: true
+    image:
+      src: https://image.ayaselva.com/page/home/002-maloca2.jpg
+      alt: Colorful Image
+    html: |
+      <h2 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">
+        Our ayahuasca center is located in Tamshiyacu
+      </h2>
+      <p>a location renowned for its serene and at the same time invigorating environment..</p>
+      <br />
+      <p>
+        At Ayaselva, we are privileged to collaborate with indigenous healers from the Peruvian Amazon,
+        who bring over 15 years of experience to our center. Our mission is to share this sacred medicine
+        in a setting that resonates with energy, love, adventure, and learning.
+      </p>
+      <br />
+      <p>
+        Our team consists of seasoned practitioners who have been engaged with this transformative medicine
+        for more than a decade. We invite you to join us on this extraordinary journey and experience the
+        profound benefits of Ayahuasca at Ayaselva.
+      </p>

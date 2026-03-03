@@ -1,0 +1,25 @@
+navigationLinks:
+  - text: Home
+    href: /
+  - text: Center
+    href: /thecenter
+  - text: Retreat
+    href: /retreats
+  - text: Team
+    href: /team
+  - text: Gallery
+    href: /gallery
+  - text: Health Guidelines
+    href: /health-guidelines
+  - text: Blog
+    href: /blog
+  - text: Pricing & Booking
+    href: /book
+  - text: Contact
+    href: /forms/contact
+
+blogList:
+  title: The Blog
+  subtitle: >-
+    This blog provides background information about Ayahuasca, science, the retreats,
+    and the surroundings in Peru. Enjoy reading!
