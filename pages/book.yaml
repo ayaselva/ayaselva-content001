@@ -1,5 +1,6 @@
 slug: book
 menuLabel: Pricing & Booking
+menuOrder: 80
 template: content-sections
 metadata:
   title: Pricing & Booking

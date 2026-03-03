@@ -1,5 +1,6 @@
 slug: health-guidelines
 menuLabel: Health Guidelines
+menuOrder: 60
 template: rich-text
 metadata:
   title: Health Guidelines

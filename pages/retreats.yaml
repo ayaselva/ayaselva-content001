@@ -1,5 +1,6 @@
 slug: retreats
 menuLabel: Retreat
+menuOrder: 30
 template: content-sections
 metadata:
   title: Retreats

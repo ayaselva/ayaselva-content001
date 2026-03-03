@@ -1,5 +1,6 @@
 slug: gallery
 menuLabel: Gallery
+menuOrder: 50
 template: content-sections
 metadata:
   title: Gallery

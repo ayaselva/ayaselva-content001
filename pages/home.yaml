@@ -1,5 +1,6 @@
 slug: home
 menuLabel: Home
+menuOrder: 10
 template: home
 metadata:
   title: Ayahuasca Healing Retreat in the Amazon - Ayaselva
