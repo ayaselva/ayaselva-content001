@@ -1,4 +1,5 @@
 slug: gallery
+menuLabel: Gallery
 template: content-sections
 metadata:
   title: Gallery
