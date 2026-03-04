@@ -17,13 +17,10 @@ sections:
     image:
       src: https://image.ayaselva.com/page/center/001-owners.jpg
       alt: Colorful Image
-    html: |
-      <h2 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Our Mission..</h2>
-      <p>
-        At AyaSelva, we strive for balance and are deeply committed to the principles of sacred medicine.
-        We leverage our expertise and understanding to ensure that every visitor receives the utmost care.
-        We are dedicated to the preservation of sacred plants and the cultural traditions that surround their use.
-      </p>
+    content: |
+      ## Our Mission..
+
+      At AyaSelva, we strive for balance and are deeply committed to the principles of sacred medicine. We leverage our expertise and understanding to ensure that every visitor receives the utmost care. We are dedicated to the preservation of sacred plants and the cultural traditions that surround their use.
   - id: about
     columns: 3
     isReversed: true
@@ -31,14 +28,9 @@ sections:
     image:
       src: https://image.ayaselva.com/page/center/002-vision.jpg
       alt: Colorful Image
-    html: |
-      <h2 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Our Vision</h2>
-      <p>
-        Our vision at Ayaselva is to empower our guests, helping them to unlock their best selves and find freedom
-        from trauma and other ailments. With a fervent passion for progress and an unwavering commitment to our guests,
-        we aim to provide impactful experiences and share our knowledge with those seeking healing.
-      </p>
-      <br />
-      <p>
-        Join us at Ayaselva Healing Center and discover a path to wellness in the beauty and tranquillity of the Peruvian Amazon.
-      </p>
+    content: |
+      ## Our Vision
+
+      Our vision at Ayaselva is to empower our guests, helping them to unlock their best selves and find freedom from trauma and other ailments. With a fervent passion for progress and an unwavering commitment to our guests, we aim to provide impactful experiences and share our knowledge with those seeking healing.
+
+      Join us at Ayaselva Healing Center and discover a path to wellness in the beauty and tranquillity of the Peruvian Amazon.

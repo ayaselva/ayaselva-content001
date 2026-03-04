@@ -9,6 +9,7 @@ metadata:
 hero:
   tagline: Retreats
   title: Pricing & Booking
-bodyIntroHtml: >-
-  The rates mentioned are all-inclusive for the ceremonies, accommodation, food and drinks.<br />
+bodyIntro: |
+  The rates mentioned are all-inclusive for the ceremonies, accommodation, food and drinks.
+
   At Ayaselva, you can enjoy your stay without any hidden costs.
