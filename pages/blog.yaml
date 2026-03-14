@@ -1,0 +1,13 @@
+slug: blog
+url: /blog
+menuLabel: Blog
+menuOrder: 65
+template: rich-text
+metadata:
+  title: The Blog
+  description: >-
+    This blog provides background information about Ayahuasca, science, the
+    retreats, and the surroundings in Peru. Enjoy reading!
+bodyIntroHtml: >-
+  This blog provides background information about Ayahuasca, science, the
+  retreats, and the surroundings in Peru. Enjoy reading!

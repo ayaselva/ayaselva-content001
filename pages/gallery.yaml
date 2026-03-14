@@ -1,4 +1,5 @@
 slug: gallery
+url: /gallery
 menuLabel: Gallery
 menuOrder: 50
 template: content-sections

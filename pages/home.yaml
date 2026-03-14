@@ -1,4 +1,5 @@
 slug: home
+url: /
 menuLabel: Home
 menuOrder: 10
 template: home
